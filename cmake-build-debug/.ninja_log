@@ -1,0 +1,12 @@
+# ninja log v5
+36	416	7216131504953889	CMakeFiles/code.dir/car.c.obj	65582c06e84e212e
+53	440	7216131505196505	CMakeFiles/code.dir/event.c.obj	91039c188629fa51
+70	442	7216131505176481	CMakeFiles/code.dir/equalsInt.c.obj	ca45a09dc2e2b0b4
+118	487	7216131505628396	CMakeFiles/code.dir/hashTable.c.obj	cb82d0786c840722
+137	489	7216131505638504	CMakeFiles/code.dir/queue.c.obj	cc1dc9aa55b5f072
+2	500	7216131505776121	CMakeFiles/code.dir/driver.c.obj	d4c8cde1ce39edbf
+156	520	7216131506025911	CMakeFiles/code.dir/priorityQueue.c.obj	b97ea51f4ff920c5
+180	531	7216131506153828	CMakeFiles/code.dir/road.c.obj	c75c3d0a12d8d431
+99	534	7216131506195101	CMakeFiles/code.dir/graph.c.obj	a5db2d1272612167
+199	579	7216131506619867	CMakeFiles/code.dir/trafficSimulator.c.obj	46490bca5f4989ae
+579	1838	7216131511348464	code.exe	96a5dea74040952c
